@@ -49,3 +49,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Uses
+
+you need to have composer installed.<br>
+create .evn file and update according to your database and run the following command<br>
+$ composer install   
+$ npm install<br>
+for some reason if you do not find composer.lock file then run the following command<br>
+$ composer update <br>  
